@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tobias Nolz</h1>
 <h3 align="center">Student at HTL St. Pölten</h3>
 
-- 🔭 I’m currently working on **Diploma - Thesis: Evaluation of modern frontend frameworks**
+- 🔭 I’m currently working on my Diploma - Thesis: **Evaluation of modern frontend frameworks**
 
 - 🌱 I’m currently learning [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)
 
