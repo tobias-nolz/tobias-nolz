@@ -22,7 +22,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Total Time: 1 hr 15 mins
+
+Python       1 hr 12 mins    ████████████████████████░   96.44 %
+Java         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Jupyter      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
