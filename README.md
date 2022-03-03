@@ -22,6 +22,7 @@
 <h3>Weekly development breakdown</h3>
 
 <!--START_SECTION:waka-->
+
 ```text
 Total Time: 1 hr 15 mins
 
@@ -32,4 +33,5 @@ TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░
 SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 Jupyter      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
+
 <!--END_SECTION:waka-->
