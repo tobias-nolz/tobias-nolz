@@ -161,7 +161,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tobias-nolz&show_icons=true&theme=dark&locale=en" alt="tobias-nolz" /></p>
 
-<h3>Weekly development breakdown</h3>
+<h3>Monthly development breakdown</h3>
 
 <!--START_SECTION:waka-->
 
