@@ -166,14 +166,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 15 hrs 28 mins
+Total Time: 17 hrs 56 mins
 
-Java             6 hrs 51 mins   ███████████░░░░░░░░░░░░░░   44.19 %
-Python           4 hrs 24 mins   ███████░░░░░░░░░░░░░░░░░░   28.36 %
-Markdown         1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-Jupyter          1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
-TypeScript       44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-HTML             30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Python           8 hrs 29 mins   ███████████▓░░░░░░░░░░░░░   47.28 %
+Java             6 hrs 42 mins   █████████▒░░░░░░░░░░░░░░░   37.38 %
+Markdown         1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+Jupyter          1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+Text             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+GitIgnore file   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->
