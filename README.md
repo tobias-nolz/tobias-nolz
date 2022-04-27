@@ -166,14 +166,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 11 hrs 57 mins
+Total Time: 11 hrs 2 mins
 
-Java                  8 hrs 18 mins   █████████████████▒░░░░░░░   69.49 %
-Python                1 hr 38 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.72 %
-HTML                  1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
-HTTP Request          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Markdown              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-Text                  8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Java                  8 hrs 11 mins   ██████████████████▓░░░░░░   74.14 %
+HTML                  1 hr 14 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
+Python                30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+JSON                  13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+HTTP Request          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Markdown              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 
 <!--END_SECTION:waka-->
