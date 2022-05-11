@@ -162,13 +162,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 2 hrs 8 mins
+Total Time: 1 hr 47 mins
 
-Python           1 hr 47 mins    █████████████████████░░░░   83.38 %
-Kotlin           12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
-Java             6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-XML              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Python           1 hr 47 mins    █████████████████████████   99.98 %
+Java             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
