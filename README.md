@@ -162,12 +162,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 16 mins
-
-Java         12 mins         ████████████████████░░░░░   80.09 %
-TypeScript   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
-HTML         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
