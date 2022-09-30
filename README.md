@@ -161,10 +161,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 1 min
-
-Java          0 secs          █████████████░░░░░░░░░░░░   52.66 %
-IDEA_MODULE   0 secs          ████████████░░░░░░░░░░░░░   47.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
