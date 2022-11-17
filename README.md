@@ -161,7 +161,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Total Time: 38 mins
+
+HTML          32 mins         ████████████████████▓░░░░   82.86 %
+TypeScript    3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
+Sass          2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+Java          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+IDEA_MODULE   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
