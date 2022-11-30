@@ -161,14 +161,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 3 hrs 19 mins
+Total Time: 35 mins
 
-Java             2 hrs 13 mins   ████████████████▓░░░░░░░░   67.03 %
-textmate         58 mins         ███████▒░░░░░░░░░░░░░░░░░   29.12 %
-GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-Text             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-TeX              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-IDEA_MODULE      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Java             16 mins         ███████████▓░░░░░░░░░░░░░   46.60 %
+textmate         14 mins         ██████████▒░░░░░░░░░░░░░░   41.17 %
+GitIgnore file   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+TeX              1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+IDEA_MODULE      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+CSV/TSV          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
