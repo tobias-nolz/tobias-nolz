@@ -161,11 +161,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 7 mins
-
-Java             4 mins          ████████████████░░░░░░░░░   64.66 %
-GitIgnore file   1 min           ██████▒░░░░░░░░░░░░░░░░░░   25.76 %
-IDEA_MODULE      0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
