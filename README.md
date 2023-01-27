@@ -161,13 +161,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 46 mins
-
-HTML         34 mins         ██████████████████▒░░░░░░   72.84 %
-TypeScript   11 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.21 %
-Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Sass         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
