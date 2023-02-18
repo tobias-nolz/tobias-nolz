@@ -161,14 +161,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 39 mins
+Total Time: 35 mins
 
-HTML             22 mins         ██████████████░░░░░░░░░░░   55.82 %
-Sass             12 mins         ████████░░░░░░░░░░░░░░░░░   32.04 %
-Java             3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
-Text             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-TypeScript       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+HTML         22 mins         ███████████████▓░░░░░░░░░   63.00 %
+Sass         12 mins         █████████░░░░░░░░░░░░░░░░   36.16 %
+TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
