@@ -161,9 +161,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 0 secs
+Total Time: 1 hr 49 mins
 
-No activity tracked
+HTML         42 mins         █████████▓░░░░░░░░░░░░░░░   38.23 %
+TypeScript   34 mins         ███████▓░░░░░░░░░░░░░░░░░   31.26 %
+Sass         26 mins         ██████░░░░░░░░░░░░░░░░░░░   24.44 %
+JSON         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
