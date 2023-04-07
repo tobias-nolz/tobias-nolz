@@ -161,11 +161,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 7 mins
+Total Time: 0 secs
 
-Text   6 mins          █████████████████████░░░░   83.55 %
-HTML   1 min           ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
-Java   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
