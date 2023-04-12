@@ -161,9 +161,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 0 secs
+Total Time: 3 mins
 
-No activity tracked
+Java       3 mins          █████████████████████████   99.43 %
+textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
