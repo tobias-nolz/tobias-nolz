@@ -161,12 +161,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 1 min
+Total Time: 4 mins
 
-HTML         1 min           ███████████████████▓░░░░░   79.08 %
-TypeScript   0 secs          █████▒░░░░░░░░░░░░░░░░░░░   20.69 %
-Sass         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
