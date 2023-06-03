@@ -160,7 +160,7 @@
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Total Time: 0 secs
 
 No activity tracked
