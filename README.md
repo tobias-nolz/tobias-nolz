@@ -161,9 +161,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 1 hr 13 mins
 
-No activity tracked
+Java             1 hr 6 mins     ██████████████████████▓░░   90.31 %
+Text             5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+XML              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->
