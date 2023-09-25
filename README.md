@@ -161,13 +161,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 58 mins
+Total Time: 8 hrs 38 mins
 
-HTML             2 hrs 55 mins   ████████████░░░░░░░░░░░░░   47.41 %
-Sass             1 hr 26 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.33 %
-TypeScript       44 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
-Python           17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-Other            11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+HTML             3 hrs 52 mins   ███████████░░░░░░░░░░░░░░   43.96 %
+TypeScript       2 hrs 9 mins    ██████░░░░░░░░░░░░░░░░░░░   24.36 %
+Sass             1 hr 37 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.34 %
+Python           17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Other            11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
 <!--END_SECTION:waka-->
