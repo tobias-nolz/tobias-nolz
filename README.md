@@ -161,13 +161,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 20 mins
+Total Time: 7 hrs 2 mins
 
-Python           4 hrs 37 mins   █████████████▓░░░░░░░░░░░   54.61 %
-GDScript         1 hr 12 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 %
-HTML             59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
-TypeScript       30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-Java             22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+Prolog           1 hr 37 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.64 %
+HTML             1 hr 28 mins    █████░░░░░░░░░░░░░░░░░░░░   20.49 %
+GDScript         1 hr 13 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.15 %
+Jupyter          41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
+TypeScript       41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
 ```
 
 <!--END_SECTION:waka-->
