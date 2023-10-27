@@ -161,12 +161,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 25 mins
+Total Time: 24 mins
 
-Prolog     44 mins         █████████████░░░░░░░░░░░░   52.22 %
-Jupyter    35 mins         ██████████▒░░░░░░░░░░░░░░   41.03 %
-GDScript   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-Python     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Java       12 mins         █████████████▒░░░░░░░░░░░   53.56 %
+Prolog     6 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.81 %
+Jupyter    4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.99 %
+GDScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 ```
 
 <!--END_SECTION:waka-->
