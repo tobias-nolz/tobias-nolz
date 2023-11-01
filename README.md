@@ -161,13 +161,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 5 mins
+Total Time: 2 hrs 10 mins
 
-Jupyter          41 mins         ███████████████▓░░░░░░░░░   62.87 %
-Java             12 mins         █████░░░░░░░░░░░░░░░░░░░░   19.67 %
-HTML             8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
-GitIgnore file   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-CSV              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+HTML             1 hr 11 mins    █████████████▓░░░░░░░░░░░   54.22 %
+Jupyter          41 mins         ████████░░░░░░░░░░░░░░░░░   31.35 %
+Java             12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
+TypeScript       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
