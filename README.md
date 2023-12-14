@@ -161,13 +161,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 44 mins
+Total Time: 0 secs
 
-Markdown              33 mins         ██████████████████▓░░░░░░   75.28 %
-Writerside List       10 mins         ██████░░░░░░░░░░░░░░░░░░░   24.09 %
-GitIgnore file        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-INI                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Writerside Instance   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
