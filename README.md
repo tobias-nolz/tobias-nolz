@@ -161,13 +161,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 5 mins
+Total Time: 50 mins
 
-Jupyter          3 hrs 23 mins   ████████████████████▓░░░░   82.85 %
-Markdown         18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-TypeScript       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-HTML             8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-GitIgnore file   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Jupyter      33 mins         ████████████████▓░░░░░░░░   67.11 %
+TypeScript   10 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.51 %
+Sass         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+HTML         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+SVG          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
