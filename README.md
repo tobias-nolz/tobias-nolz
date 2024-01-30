@@ -161,13 +161,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 17 mins
+Total Time: 0 secs
 
-Jupyter      11 mins         █████████████████░░░░░░░░   68.00 %
-Sass         3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
-HTML         2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-SVG          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
