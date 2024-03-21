@@ -161,13 +161,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 15 mins
+Total Time: 13 hrs
 
-Jupyter          4 hrs 17 mins   ███████████▓░░░░░░░░░░░░░   46.27 %
-Python           1 hr 41 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.19 %
-JavaScript       1 hr 39 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.99 %
-PHP              1 hr 6 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-YAML             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Jupyter           4 hrs 23 mins   ████████▒░░░░░░░░░░░░░░░░   33.76 %
+Python            3 hrs 31 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.06 %
+PHP               1 hr 59 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
+JavaScript        1 hr 39 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 %
+SQL               31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
 ```
 
 <!--END_SECTION:waka-->
