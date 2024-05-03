@@ -161,13 +161,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 11 hrs 1 min
+Total Time: 10 hrs 23 mins
 
-Jupyter               9 hrs 46 mins   ██████████████████████░░░   88.59 %
-HTTP Request          28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-Python                25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-textmate              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-XML                   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Jupyter        9 hrs 42 mins   ███████████████████████▒░   93.45 %
+Python         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+textmate       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Markdown       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+HTML           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
