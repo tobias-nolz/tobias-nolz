@@ -161,10 +161,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 53 mins
+Total Time: 6 hrs 29 mins
 
-Jupyter   3 hrs 1 min     ███████████████████▒░░░░░   77.69 %
-Python    52 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.31 %
+Jupyter   6 hrs 10 mins   ███████████████████████▓░   94.92 %
+Python    11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+Text      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+CSV       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
