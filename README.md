@@ -161,9 +161,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 55 mins
+Total Time: 42 mins
 
-Jupyter   55 mins         █████████████████████████   100.00 %
+Jupyter   42 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
