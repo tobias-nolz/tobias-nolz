@@ -161,12 +161,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 54 mins
+Total Time: 1 hr 58 mins
 
-Python   1 hr 37 mins    ██████████████░░░░░░░░░░░   55.56 %
-CSV      57 mins         ████████▒░░░░░░░░░░░░░░░░   33.05 %
-JSON     18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
-Java     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Python   1 hr 23 mins    █████████████████▓░░░░░░░   70.56 %
+CSV      34 mins         ███████▒░░░░░░░░░░░░░░░░░   28.87 %
+JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
