@@ -161,11 +161,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 21 mins
+Total Time: 0 secs
 
-CSV      12 mins         ██████████████▒░░░░░░░░░░   57.79 %
-Python   8 mins          ██████████▒░░░░░░░░░░░░░░   41.02 %
-JSON     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
