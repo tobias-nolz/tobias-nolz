@@ -161,10 +161,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 56 mins
+Total Time: 0 secs
 
-Java   56 mins         █████████████████████████   99.96 %
-Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
