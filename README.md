@@ -161,13 +161,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 hrs 13 mins
+Total Time: 9 hrs 26 mins
 
-Jupyter            10 hrs 3 mins   ████████████████████████▓   98.36 %
-Text               4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Docker             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Jupyter            9 hrs 16 mins   ████████████████████████▓   98.23 %
+Text               4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Docker             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 Python             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
