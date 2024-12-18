@@ -161,10 +161,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 15 mins
+Total Time: 2 hrs 11 mins
 
-Jupyter   2 hrs 14 mins   █████████████████████████   99.37 %
-Python    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Jupyter   2 hrs 10 mins   █████████████████████████   99.35 %
+Python    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 HTML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 CSV       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
