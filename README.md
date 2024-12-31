@@ -161,13 +161,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 55 mins
+Total Time: 11 hrs 17 mins
 
-Jupyter           3 hrs 53 mins   ████████████▒░░░░░░░░░░░░   49.18 %
-SQL               1 hr 56 mins    ██████░░░░░░░░░░░░░░░░░░░   24.51 %
-Python            1 hr 26 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.29 %
-Java              14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-Java Properties   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Jupyter           4 hrs 14 mins   █████████▒░░░░░░░░░░░░░░░   37.49 %
+Java              3 hrs 53 mins   ████████▓░░░░░░░░░░░░░░░░   34.48 %
+SQL               2 hrs 20 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.71 %
+YAML              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Java Properties   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
 <!--END_SECTION:waka-->
