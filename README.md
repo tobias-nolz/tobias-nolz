@@ -161,9 +161,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 6 mins
 
-No activity tracked
+Jupyter   6 mins          █████████████████████████   99.56 %
+HTML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
