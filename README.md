@@ -161,9 +161,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 56 mins
+Total Time: 4 hrs 2 mins
 
-Jupyter   3 hrs 56 mins   █████████████████████████   100.00 %
+Jupyter          3 hrs 57 mins   ████████████████████████▓   98.07 %
+YAML             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Markdown         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
