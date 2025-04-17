@@ -161,13 +161,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 7 mins
+Total Time: 3 hrs 59 mins
 
-JSON         38 mins         ██████████████▒░░░░░░░░░░   56.94 %
-TypeScript   13 mins         █████░░░░░░░░░░░░░░░░░░░░   19.96 %
-Sass         6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
-Jupyter      4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
-TSConfig     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Jupyter      2 hrs 55 mins   ██████████████████▒░░░░░░   73.33 %
+JSON         38 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
+TypeScript   13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+Sass         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+TSConfig     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 ```
 
 <!--END_SECTION:waka-->
