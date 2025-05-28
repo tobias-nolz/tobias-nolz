@@ -161,13 +161,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 28 hrs 24 mins
+Total Time: 22 hrs 31 mins
 
-Jupyter             24 hrs 37 mins  █████████████████████▓░░░   86.69 %
-CSV                 1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-LaTeX source file   1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-PDF                 46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-TeX                 42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Jupyter             19 hrs 17 mins  █████████████████████▒░░░   85.68 %
+LaTeX source file   1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+PDF                 44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+TeX                 42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+CSV                 35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
 ```
 
 <!--END_SECTION:waka-->
