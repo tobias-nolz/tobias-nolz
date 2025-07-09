@@ -161,13 +161,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 7 mins
+Total Time: 5 hrs 43 mins
 
-Jupyter             2 hrs 11 mins   █████████░░░░░░░░░░░░░░░░   35.40 %
-TOML                1 hr 40 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.18 %
-Markdown            39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 %
-HTML                24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-GitIgnore file      19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+Jupyter             1 hr 59 mins    ████████▓░░░░░░░░░░░░░░░░   34.53 %
+TOML                1 hr 40 mins    ███████▒░░░░░░░░░░░░░░░░░   29.04 %
+Markdown            39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
+HTML                24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+GitIgnore file      19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
 ```
 
 <!--END_SECTION:waka-->
