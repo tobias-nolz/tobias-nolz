@@ -161,13 +161,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 17 mins
+Total Time: 30 mins
 
-HTML             8 mins          █████████████░░░░░░░░░░░░   51.54 %
-Markdown         4 mins          ███████░░░░░░░░░░░░░░░░░░   28.23 %
-GitIgnore file   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
-SQL              1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
-SCSS             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+TypeScript       13 mins         ███████████▒░░░░░░░░░░░░░   45.51 %
+HTML             9 mins          ███████▓░░░░░░░░░░░░░░░░░   30.68 %
+Markdown         4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
+GitIgnore file   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+SQL              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 ```
 
 <!--END_SECTION:waka-->
