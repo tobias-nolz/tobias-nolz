@@ -161,10 +161,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 mins
+Total Time: 0 secs
 
-SQL       3 mins          █████████████▓░░░░░░░░░░░   55.29 %
-Jupyter   2 mins          ███████████▒░░░░░░░░░░░░░   44.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
