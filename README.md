@@ -161,13 +161,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 22 mins
+Total Time: 1 hr 21 mins
 
-Jupyter           9 mins          ██████████░░░░░░░░░░░░░░░   40.59 %
-TypeScript        3 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
-Java              3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
-SQL               2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
-Java Properties   2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
+LaTeX source file          25 mins         ███████▓░░░░░░░░░░░░░░░░░   30.55 %
+TeX                        22 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.31 %
+Jupyter                    10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
+XML                        4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+TypeScript                 3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
 ```
 
 <!--END_SECTION:waka-->
