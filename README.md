@@ -161,13 +161,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 13 hrs 37 mins
+Total Time: 10 hrs 58 mins
 
-TeX                        7 hrs 18 mins   █████████████▒░░░░░░░░░░░   53.64 %
-LaTeX source file          2 hrs 50 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.85 %
-PDF                        2 hrs 46 mins   █████░░░░░░░░░░░░░░░░░░░░   20.43 %
-Text                       29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-Java                       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+TeX                        6 hrs 19 mins   ██████████████▒░░░░░░░░░░   57.68 %
+PDF                        2 hrs 6 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.21 %
+LaTeX source file          1 hr 54 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.44 %
+Text                       26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+Java                       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
 <!--END_SECTION:waka-->
