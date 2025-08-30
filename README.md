@@ -161,13 +161,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 26 mins
+Total Time: 59 mins
 
-TeX                        3 hrs 28 mins   ████████████████░░░░░░░░░   63.97 %
-LaTeX source file          1 hr 8 mins     █████▒░░░░░░░░░░░░░░░░░░░   20.88 %
-PDF                        31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
-Text                       16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-BibTeX bibliography file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+TeX                        39 mins         █████████████████░░░░░░░░   67.43 %
+LaTeX source file          16 mins         ███████░░░░░░░░░░░░░░░░░░   27.82 %
+PDF                        2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+BibTeX bibliography file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
