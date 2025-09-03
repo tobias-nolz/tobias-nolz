@@ -163,10 +163,10 @@
 ```txt
 Total Time: 11 mins
 
-PDF                        6 mins          ████████████▓░░░░░░░░░░░░   50.87 %
-LaTeX source file          4 mins          █████████░░░░░░░░░░░░░░░░   35.47 %
-TeX                        1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
-BibTeX bibliography file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+PDF                        6 mins          ████████████▓░░░░░░░░░░░░   50.58 %
+LaTeX source file          4 mins          █████████░░░░░░░░░░░░░░░░   35.73 %
+TeX                        1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
+BibTeX bibliography file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
