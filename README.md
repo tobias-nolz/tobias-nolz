@@ -161,11 +161,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 mins
+Total Time: 0 secs
 
-LaTeX source file          3 mins          ████████████████████████▓   99.27 %
-BibTeX bibliography file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-TeX                        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+LaTeX source file          0 secs          ████████████████████▒░░░░   80.95 %
+BibTeX bibliography file   0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
+TeX                        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
 ```
 
 <!--END_SECTION:waka-->
