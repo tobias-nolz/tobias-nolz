@@ -163,9 +163,7 @@
 ```txt
 Total Time: 0 secs
 
-LaTeX source file          0 secs          ████████████████████▒░░░░   80.95 %
-BibTeX bibliography file   0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
-TeX                        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
