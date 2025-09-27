@@ -161,9 +161,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 1 hr 4 mins
 
-No activity tracked
+Java Properties   23 mins         █████████░░░░░░░░░░░░░░░░   36.31 %
+YAML              17 mins         ███████░░░░░░░░░░░░░░░░░░   27.45 %
+SQL               7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+Bash              6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+Java              3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
 ```
 
 <!--END_SECTION:waka-->
