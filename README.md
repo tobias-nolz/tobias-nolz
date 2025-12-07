@@ -29,13 +29,13 @@ I'm passionate about exploring the intersection of **machine learning**, **data 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 23 mins
+Total Time: 7 hrs 28 mins
 
-Jupyter        5 hrs 22 mins   ████████████████░░░░░░░░░   64.10 %
-R              1 hr 30 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
-RMarkdown      1 hr 27 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.43 %
-.env file      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Python         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Jupyter        4 hrs 28 mins   ███████████████░░░░░░░░░░   59.84 %
+R              1 hr 30 mins    █████░░░░░░░░░░░░░░░░░░░░   20.07 %
+RMarkdown      1 hr 27 mins    █████░░░░░░░░░░░░░░░░░░░░   19.55 %
+.env file      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Python         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
