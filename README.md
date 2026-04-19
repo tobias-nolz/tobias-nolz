@@ -31,8 +31,8 @@ I'm passionate about exploring the intersection of **machine learning**, **data 
 ```txt
 Total Time: 5 hrs 21 mins
 
-TypeScript           2 hrs 37 mins         ████████████▒░░░░░░░░░░░░   48.91 %
-Jupyter              1 hr 35 mins          ███████▒░░░░░░░░░░░░░░░░░   29.63 %
+TypeScript           2 hrs 37 mins         ████████████▒░░░░░░░░░░░░   48.93 %
+Jupyter              1 hr 35 mins          ███████▒░░░░░░░░░░░░░░░░░   29.65 %
 ThinClientFileType   18 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
 Java                 17 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
 JSON                 10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
