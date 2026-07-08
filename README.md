@@ -31,8 +31,8 @@ I'm passionate about exploring the intersection of **machine learning**, **data 
 ```txt
 Total Time: 3 hrs 12 mins
 
-Bash                28 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 %
-HTML                26 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
+Bash                28 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 %
+HTML                26 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
 Markdown            24 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
 JSON                16 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
 Docker              16 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
