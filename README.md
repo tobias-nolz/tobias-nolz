@@ -31,8 +31,8 @@ I'm passionate about exploring the intersection of **machine learning**, **data 
 ```txt
 Total Time: 7 mins
 
-JSON         6 mins                █████████████████████░░░░   83.75 %
-TypeScript   1 min                 ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
+JSON         6 mins                █████████████████████░░░░   83.64 %
+TypeScript   1 min                 ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
 textmate     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 Text         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
