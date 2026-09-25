@@ -31,10 +31,10 @@ I'm passionate about exploring the intersection of **machine learning**, **data 
 ```txt
 Total Time: 16 mins
 
-Markdown                   8 mins                █████████▒░░░░░░░░░░░░░░░   37.13 %
-Other                      6 mins                ██████▓░░░░░░░░░░░░░░░░░░   27.26 %
-BibTeX                     3 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
-Text                       3 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
+Markdown                   8 mins                █████████▒░░░░░░░░░░░░░░░   37.15 %
+Other                      6 mins                ██████▓░░░░░░░░░░░░░░░░░░   27.28 %
+BibTeX                     3 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.26 %
+Text                       3 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
 YAML                       0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
 ```
 
