@@ -28,6 +28,6 @@ I'm passionate about exploring the intersection of **machine learning**, **data 
 
 <!--START_SECTION:waka-->
 
-<img src="assets/waka-stats.svg" alt="WakaTime, total 24 hrs 4 mins: TeX 6 hrs 53 mins, Jupyter 5 hrs 37 mins, Markdown 5 hrs 4 mins, Text 2 hrs 16 mins, LaTeX source file 1 hr 27 mins" width="495">
+<img src="assets/waka-stats.svg" alt="WakaTime, total 22 hrs 1 min: TeX 7 hrs 11 mins, Jupyter 5 hrs 32 mins, Markdown 4 hrs 30 mins, Text 1 hr 22 mins, LaTeX source file 1 hr 19 mins" width="495">
 
 <!--END_SECTION:waka-->
