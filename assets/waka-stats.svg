@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="495" height="348" viewBox="0 0 495 348" role="img" aria-label="WakaTime: 22 hrs 1 min coding time in the last 7 days">
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="348" viewBox="0 0 495 348" role="img" aria-label="WakaTime: 18 hrs 48 mins coding time in the last 7 days">
 <style>
   text { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #1f2328; }
   .card { fill: #ffffff; stroke: #d0d7de; }
@@ -17,11 +17,11 @@
 </style>
 <rect x="0.5" y="0.5" width="494" height="347" rx="12" class="card"/>
 <text class="eyebrow" x="24" y="34">Coding time</text>
-<text class="total" x="24" y="68">22 hrs 1 min</text>
+<text class="total" x="24" y="68">18 hrs 48 mins</text>
 <text class="sub" x="471" y="68" text-anchor="end">last 7 days</text>
-<text class="name" x="24" y="104">TeX</text><text class="meta" x="471" y="104" text-anchor="end">7 hrs 11 mins  ·  32.5%</text><rect class="track" x="24" y="114" width="447" height="8" rx="4"/><rect x="24" y="114" width="145.5" height="8" rx="4" fill="#4f8cff"/>
-<text class="name" x="24" y="152">Jupyter</text><text class="meta" x="471" y="152" text-anchor="end">5 hrs 32 mins  ·  25.1%</text><rect class="track" x="24" y="162" width="447" height="8" rx="4"/><rect x="24" y="162" width="112.2" height="8" rx="4" fill="#a371f7"/>
-<text class="name" x="24" y="200">Markdown</text><text class="meta" x="471" y="200" text-anchor="end">4 hrs 30 mins  ·  20.4%</text><rect class="track" x="24" y="210" width="447" height="8" rx="4"/><rect x="24" y="210" width="91.3" height="8" rx="4" fill="#2ea98f"/>
-<text class="name" x="24" y="248">Text</text><text class="meta" x="471" y="248" text-anchor="end">1 hr 22 mins  ·  6.2%</text><rect class="track" x="24" y="258" width="447" height="8" rx="4"/><rect x="24" y="258" width="27.8" height="8" rx="4" fill="#f0883e"/>
-<text class="name" x="24" y="296">LaTeX source file</text><text class="meta" x="471" y="296" text-anchor="end">1 hr 19 mins  ·  6.0%</text><rect class="track" x="24" y="306" width="447" height="8" rx="4"/><rect x="24" y="306" width="26.9" height="8" rx="4" fill="#e5534b"/>
+<text class="name" x="24" y="104">TeX</text><text class="meta" x="471" y="104" text-anchor="end">6 hrs 45 mins  ·  35.8%</text><rect class="track" x="24" y="114" width="447" height="8" rx="4"/><rect x="24" y="114" width="159.9" height="8" rx="4" fill="#4f8cff"/>
+<text class="name" x="24" y="152">Markdown</text><text class="meta" x="471" y="152" text-anchor="end">4 hrs 30 mins  ·  23.9%</text><rect class="track" x="24" y="162" width="447" height="8" rx="4"/><rect x="24" y="162" width="106.7" height="8" rx="4" fill="#a371f7"/>
+<text class="name" x="24" y="200">Jupyter</text><text class="meta" x="471" y="200" text-anchor="end">3 hrs 3 mins  ·  16.2%</text><rect class="track" x="24" y="210" width="447" height="8" rx="4"/><rect x="24" y="210" width="72.5" height="8" rx="4" fill="#2ea98f"/>
+<text class="name" x="24" y="248">LaTeX source file</text><text class="meta" x="471" y="248" text-anchor="end">1 hr 18 mins  ·  6.9%</text><rect class="track" x="24" y="258" width="447" height="8" rx="4"/><rect x="24" y="258" width="31.0" height="8" rx="4" fill="#f0883e"/>
+<text class="name" x="24" y="296">Text</text><text class="meta" x="471" y="296" text-anchor="end">1 hr 6 mins  ·  5.9%</text><rect class="track" x="24" y="306" width="447" height="8" rx="4"/><rect x="24" y="306" width="26.3" height="8" rx="4" fill="#e5534b"/>
 </svg>
